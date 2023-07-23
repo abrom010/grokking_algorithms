@@ -1,0 +1,6 @@
+1. Linked list
+2. Linked list
+3. Array
+4. Allocate new memory, copy all the items O(n).
+5. The new data structure will be faster at searching compared to linked list, slower than searching an array.
+	It will be the same at inserting compared to linked list, and faster at inserting compared to an array.

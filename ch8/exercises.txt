@@ -1,0 +1,8 @@
+1. Pick the largest box that you can fit in the truck, repeat. Not optimal.
+2. Pick the activity with the largest sum of points that you can still complete in the time, repeat. Not optimal.
+3. Not greedy
+4. Not greedy
+5. Greedy
+6. NP-complete
+7. NP-complete
+8. NP-complete

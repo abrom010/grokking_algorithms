@@ -1,0 +1,19 @@
+3.
+a. Invalid
+b. Valid
+c. Valid
+
+4.
+wake up
+brush teeth
+eat breakfast
+pack lunch
+exercise shower
+get dressed
+
+"a tree is a special type of graph, where no edges ever point back up"
+
+5.
+a. true
+b. false
+c. false

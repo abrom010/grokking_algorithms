@@ -1,0 +1,9 @@
+1. Yes. MP3 + Iphone + Guitar = $4,500, new max.
+2.
+Subproblems
+1lb - Camera (6)
+2lb - Food (9)
+3lb - Food, Camera (15)
+4lb - Water, Camera (16)
+5lb - Water, Food (19)
+6lb - Water, Food, Camera (25)
